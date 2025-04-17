@@ -287,7 +287,8 @@ Key requirements of this license:
 *Detailed view of password information*
 
 ### Video Demonstration
-[Watch the demo video](static/Screen%20Recording%202025-04-17%20at%2011.45.12.mov) to see the Password Manager in action.
+[![Watch the demo video](https://img.youtube.com/vi/9hPm1w-NM2Q/0.jpg)](https://youtu.be/9hPm1w-NM2Q)
+*Click on the image above to watch the Password Manager demonstration video on YouTube*
 
 
 
