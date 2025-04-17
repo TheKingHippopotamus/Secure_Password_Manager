@@ -46,7 +46,7 @@ A professional-grade, secure password management system that allows you to creat
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/password-manager.git
+   https://github.com/TheKingHippopotamus/Secure_Password_Manager.git
    cd password-manager
    ```
 
