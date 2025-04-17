@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+env_pswd/
+venv/
+ENV/
+
+# Virtual environment
+.env
+.venv
+
+# Sensitive data directories
+secrets/
+backups/
+
+# Generated files
+*.enc
+salt.bin
+.master_user.enc
+.master_hash.enc
+.login_attempts.dat
+.passwords.enc
+password_manager.log
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Notebook specific files
+.ipynb_checkpoints
+
+# Local configuration files
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+*.cover
+
+# Personal test files
+test_password_manager.py
+users.json 
